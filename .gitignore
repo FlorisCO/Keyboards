@@ -1,0 +1,15 @@
+# QMK build artifacts that might land here if builds are run locally
+*.hex
+*.bin
+*.uf2
+*.eep
+.build/
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
